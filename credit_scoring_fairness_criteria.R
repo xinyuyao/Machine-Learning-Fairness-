@@ -21,7 +21,7 @@ library(caret)
 library(klaR)
 
 # working directory
-setwd("/Users/xinyu/desktop/senior fall/Independent Study/dataset/")
+setwd("/Users/xinyu/desktop/senior spring/Independent Study/ML fairness/")
 
 # load data, this will look for the file in the working directory
 bank <- read.csv("ml bank dataset/bankfullclean.csv")
